@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Conference Planning",
+    "image": "https://images.pexels.com/photos/5668837/pexels-photo-5668837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$2000",
+    "description": "Comprehensive planning for corporate conferences, including venue selection, agenda creation, guest management, and logistics.",
+    "button_text": "Learn More"
+  },
+  {
+    "id": 2,
+    "name": "Team Building Activities",
+    "image": "https://images.pexels.com/photos/3415148/pexels-photo-3415148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$1500",
+    "description": "Engaging team building activities tailored to your company's goals and preferences to foster collaboration and team spirit.",
+    "button_text": "Discover Activities"
+  },
+  {
+    "id": 3,
+    "name": "Product Launch Management",
+    "image": "https://images.pexels.com/photos/3760072/pexels-photo-3760072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$2500",
+    "description": "Expert assistance in planning and executing successful product launches, from concept development to event coordination.",
+    "button_text": "Explore Launch Services"
+  },
+  {
+    "id": 4,
+    "name": "Corporate Gala Dinners",
+    "image": "https://images.pexels.com/photos/935977/pexels-photo-935977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$3000",
+    "description": "Elegant and memorable gala dinners meticulously planned to impress your guests and enhance your corporate image.",
+    "button_text": "View Menu Options"
+  },
+  {
+    "id": 5,
+    "name": "Trade Show Exhibitions",
+    "image": "https://images.pexels.com/photos/327540/pexels-photo-327540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$1800",
+    "description": "Strategic planning and execution of trade show exhibitions to maximize brand exposure and generate leads for your business.",
+    "button_text": "See Exhibition Packages"
+  },
+  {
+    "id": 6,
+    "name": "Corporate Training Workshops",
+    "image": "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": "$1200",
+    "description": "Customized training workshops designed to enhance employee skills, productivity, and professional development.",
+    "button_text": "Book Workshop"
+  }
+]

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .active {
+    color: #ff444a;
+    text-decoration: underline;
+    font-weight: 700;
+  }
+  .pending {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+  }
+  .primary-bg {
+    background-color: #ff444a;
+    color: white;
+  }
+  .p-color {
+    color: #ff444a;
+  } 
+}
